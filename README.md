@@ -1,4 +1,4 @@
-# jogo_descobrir_palavra
+# Word Discorvery Game
 
 A new Flutter project.
 
