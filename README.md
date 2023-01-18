@@ -1,6 +1,10 @@
 # Word Discorvery Game
 
-A new Flutter project.
+Word Discovery game made using Flutter.
+
+![word_discovery_menu](https://user-images.githubusercontent.com/52147238/213244050-8a493282-694b-43e0-adae-74b1bbd425a9.png)
+![word_discovery_game](https://user-images.githubusercontent.com/52147238/213244399-8ea195dd-5598-489c-9407-b37117082b07.png)
+
 
 ## Getting Started
 
